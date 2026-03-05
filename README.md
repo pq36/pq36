@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meghana</h1>
-<h3 align="center">Building Agentic AI Systems | Full Stack Developer | Machine Learning Enthusiast</h3>
-
+<h3 align="center">Designing Agentic AI Systems | LLM Engineering | Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pq36&label=Profile%20views&color=0e75b6&style=flat" alt="pq36" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pq36" alt="pq36" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep learning**
+- 🌱 Currently building and learning **Agentic AI Systems, LLM Applications, and Deep Learning**
 
-- 💬 Ask me about **Full Stack Development, Machine Learning, and Problem-Solving**
+- 💬 Ask me about **AI Agents, Generative  AI, Full Stack Development, and Machine Learning**
+
 
 - 📫 How to reach me **meghanaop360@gmail.com**
 
