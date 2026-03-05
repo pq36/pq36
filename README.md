@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meghanaop360@gmail.com**
 
-- ⚡ Fun fact **I can spend hours debugging a single line of code and still enjoy it!😄**
+- ⚡ Fun fact: I often go down deep rabbit holes learning new tech until something cool is built 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
